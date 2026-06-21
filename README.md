@@ -42,3 +42,21 @@ To build a machine learning system that:
 ---
 
 ## 📂 Project Structure
+
+app.py → Main Streamlit app
+model.pkl → Trained ML model
+requirements.txt → Dependencies
+README.md → Project documentation
+
+## 🚀 Future Improvements
+- Improve model accuracy using feature engineering
+- Add multiple ML models
+- Deploy on cloud (Streamlit Cloud / AWS)
+- Store prediction history
+
+-## 👨‍💻 Author
+Rohith  
+BTech AI & Machine Learning  
+Interest: AI Agents, Automation, Trading Systems
+
+
